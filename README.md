@@ -61,3 +61,5 @@ A debugging shader/visualizer for me to test my common functions (from within Ka
 No artificial intelligence (AI) was used in the making of these effects, only biological stupidity. 
 
 Any fault is potentially caused by using Reshade's integrated editor to develop the effects, instead of a proper external editor.
+
+I am terrible at READMEs
