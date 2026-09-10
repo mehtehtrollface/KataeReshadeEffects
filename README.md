@@ -3,6 +3,8 @@ Designed for use with raw Reshade in FFXIV, this is a small compilation of effec
 
 The effects have not been tested outside of FFXIV and thus I provide no immediate support outside of that game.
 
+For direct communication with the developer (me), it'd be much easier to join the Discord: https://discord.com/invite/XXgMmyPVQy
+
 # Installation
 Download the repository as a .zip, then install the ``shaders`` and ``presets`` in their respective folders for your Reshade/Gshade installation.
 
