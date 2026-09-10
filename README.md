@@ -8,6 +8,8 @@ Download the repository as a .zip, then install the ``shaders`` and ``presets`` 
 
 ##
 
+##
+
 # Presets
 
 ## Katae_ObraDinn
@@ -15,6 +17,8 @@ A small compilation of effects to attempt to emulate the visuals of Obra Dinn. I
 
 ## Katae_Retro3D
 An experiment of attempting to create a sort of old-school look via a mix of an edge-aware pixelizer, an outline, and a color "de-detailing".
+
+##
 
 ##
 
@@ -47,6 +51,8 @@ Dithers the screen in a 1-bit color depth.
 
 ## K_Debug
 A debugging shader/visualizer for me to test my common functions (from within KataeFuncs.fxh)
+
+##
 
 ##
 
